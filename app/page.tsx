@@ -196,7 +196,7 @@ export default function LandingPage() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/dashboard">
               <Button size="lg" variant="secondary" className="text-lg px-8 py-3">
-                View Dashboard
+                View beehive
                 <ArrowRight className="h-5 w-5 ml-2" />
               </Button>
             </Link>
